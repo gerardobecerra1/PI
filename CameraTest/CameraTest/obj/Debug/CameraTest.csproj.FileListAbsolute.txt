@@ -1,0 +1,17 @@
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\CameraTest.exe.config
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\CameraTest.exe
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\CameraTest.pdb
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.dll
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.Video.DirectShow.dll
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.Video.dll
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.xml
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.Video.xml
+D:\FCFM\PI\CameraTest\CameraTest\bin\Debug\AForge.Video.DirectShow.xml
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.csproj.AssemblyReference.cache
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.Form1.resources
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.Properties.Resources.resources
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.csproj.GenerateResource.cache
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.csproj.CoreCompileInputs.cache
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.csproj.CopyComplete
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.exe
+D:\FCFM\PI\CameraTest\CameraTest\obj\Debug\CameraTest.pdb
